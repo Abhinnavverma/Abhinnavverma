@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhinav Verma</h1>
-<h3 align="center">Final-year B.Tech Computer Science student with a passion for building scalable backend systems and mastering data structures & algorithms (2150+ LeetCode rating). Experienced with C++, Java, React, Node.js, and working on personal projects like StackShifter & Mental Health Chatbot. Actively preparing for SDE roles and eager to contribute to innovative tech companies. Always open to learning and collaboration.</h3>
+<h3 align="center">Final-year B.Tech Computer Science student with a passion for building scalable backend systems and mastering data structures & algorithms (2200+ LeetCode rating). Experienced with C++, Java, React, Node.js, and working on personal projects like StackShifter & Mental Health Chatbot. Actively preparing for SDE roles and eager to contribute to innovative tech companies. Always open to learning and collaboration.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinnavverma&label=Profile%20views&color=0e75b6&style=flat" alt="abhinnavverma" /> </p>
 
