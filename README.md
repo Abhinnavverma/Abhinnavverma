@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhinnavverma" alt="abhinnavverma" /></a> </p>
 
-- 🔭 I’m currently working on [StackShifter](https://github.com/Aditya0o7/stackshifter)
+- 🔭 I’m currently working on [Query Optimization Engine](https://github.com/Abhinnavverma)
 
 - 💬 Ask me about **Data Structures & Algorithms**
 
-- 📫 How to reach me **abhinav.22b1541193@abes.ac.in**
+- 📫 How to reach me **vabhinav029@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
